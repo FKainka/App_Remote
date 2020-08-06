@@ -1,0 +1,11 @@
+{
+    "name":"submodule1",
+    "type":0,
+    "url":"google.de",
+    "files":["rgb.py"],
+    "list":[
+        {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/NanoESP/master/README.md"},
+        {"name":"submodule2","url":"sdfjlddsfjf"}
+    ],
+    "requirements":[]
+}
