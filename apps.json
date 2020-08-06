@@ -4,8 +4,8 @@
     "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master",
     "files":["apps.json","Readme.md","__init__.py"],
     "list":[
-        {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/submodule1"},
-        {"name":"submodule2","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/submodule2"}
+        {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule1"},
+        {"name":"submodule2","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule2"}
     ],
     "requirements":[]
 }
