@@ -1,0 +1,9 @@
+{
+    "name":"Submodule3",
+    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule3",
+    "files":[],
+    "list":[
+        {"name":"Utilities","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule3/Utilities"}
+        ],
+    "requirements":[]
+}

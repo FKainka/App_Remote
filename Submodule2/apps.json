@@ -1,6 +1,5 @@
 {
-    "name":"./apps",
-    "type":0,
+    "name":"Submodule2",
     "url":"google.de",
     "files":["apps.json","Readme.md","__init__.py"],
     "list":[

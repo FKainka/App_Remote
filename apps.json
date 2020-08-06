@@ -1,10 +1,10 @@
 {
     "name":"apps",
-    "type":0,
     "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master",
     "files":["apps.json","Readme.md","__init__.py"],
     "list":[
         {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule1"},
+        {"name":"submodule3","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule3"},
         {"name":"submodule2","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule2"}
     ],
     "requirements":[]
