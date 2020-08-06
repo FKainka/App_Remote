@@ -1,11 +1,11 @@
 {
     "name":"apps",
     "type":0,
-    "url":"google.de",
+    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master",
     "files":["apps.json","Readme.md","__init__.py"],
     "list":[
-        {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/NanoESP/master/README.md"},
-        {"name":"submodule2","url":"sdfjldjf"}
+        {"name":"submodule1","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/submodule1"},
+        {"name":"submodule2","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/submodule2"}
     ],
     "requirements":[]
 }
