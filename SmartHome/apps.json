@@ -1,0 +1,9 @@
+{
+    "name":"SmartHome",
+    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/SmartHome",
+    "files":["apps.json","Readme.md"],
+    "list":[
+        {"name":"bedlight","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/SmartHome/bedlight"}
+    ],
+    "requirements":[]
+}

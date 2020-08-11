@@ -1,8 +1,0 @@
-{
-    "name":"Submodule1",
-    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule1",
-    "files":["rgb.py"],
-    "list":[
-    ],
-    "requirements":[]
-}
