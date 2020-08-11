@@ -6,7 +6,7 @@ led_blue = PWM(Pin(0), freq=5000, duty=1023)
 led_green = PWM(Pin(2), freq=5000, duty=1023)
 led_red = PWM(Pin(4), freq=5000, duty=1023) 
 
-red = (255,0,0)
+red = (255,0,0) 
 green = (0,255,0)
 blue = (0,0,255)
 yellow = (255,255,0)
