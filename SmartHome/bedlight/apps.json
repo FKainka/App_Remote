@@ -2,7 +2,7 @@
     "name":"bedlight",
     "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/SmartHome/bedlight",
     "files":["__init__.py", "colorsys.py","myneopixel.py","apps.json","Readme.md"],
-    "version":"0.2",
+    "version":"0.3",
     "list":[
     ],
     "requirements":[]

@@ -1,9 +1,16 @@
 from bedlight.myneopixel import *
 from machine import TouchPad, Pin
 import time
+import tools.rgb
 
 threshold = 250
 on = False
+
+## To deactivate Light
+from machine import Pin,PWM
+led_blue = PWM(Pin(0), freq=5000, duty=1023) 
+led_green = PWM(Pin(2), freq=5000, duty=1023) 
+led_red = PWM(Pin(4), freq=5000, duty=1023) 
 
 
 t1 = TouchPad(Pin(32))   #33

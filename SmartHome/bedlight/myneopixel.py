@@ -64,7 +64,7 @@ def _stop_task_():
 def _wait_(duration):
     global do_task
     while(duration >0):
-        time.sleep_us(500) # adapted by feeling. longer due to other cmds
+        time.sleep_us(700) # adapted by feeling. longer due to other cmds
         duration = duration -1
         if (do_task == False):
             return  
