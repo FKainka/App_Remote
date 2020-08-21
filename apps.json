@@ -4,6 +4,7 @@
     "files":["apps.json","Readme.md","__init__.py"],
     "list":[
         {"name":"SmartHome","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/SmartHome"},
+        {"name":"BA","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/BA"},
         {"name":"submodule3","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule3"},
         {"name":"submodule2","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/Submodule2"}
     ],

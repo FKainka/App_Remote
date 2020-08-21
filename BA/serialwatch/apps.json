@@ -1,0 +1,9 @@
+{
+    "name":"serialwatch",
+    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/BA/serialwatch",
+    "files":["__init__.py","Readme.md"],
+    "version":"0.1",
+    "list":[
+    ],
+    "requirements":[]
+}

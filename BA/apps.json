@@ -1,0 +1,9 @@
+{
+    "name":"BA",
+    "url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/BA",
+    "files":["apps.json","Readme.md"],
+    "list":[
+        {"name":"serialwatch","url":"https://raw.githubusercontent.com/FKainka/App_Remote/master/BA/serialwatch"}
+    ],
+    "requirements":[]
+}
